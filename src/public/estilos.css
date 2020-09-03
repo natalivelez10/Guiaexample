@@ -31,8 +31,8 @@ section {
 header {
   width: auto;
 }
-.navbar {
-  background-color: #f7f7ee;
+.navbar { 
+  background-color: #1a8674;
   min-height: 100px;
   box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.1);
 }
