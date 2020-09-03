@@ -93,7 +93,7 @@ header {
 }
 
 .bg-gradient-dark {
-  background-color: #f7f7ee !important;
+  background-color:rgb(31, 31, 105) !important;
 }
 
 .logo-footer {
@@ -318,7 +318,8 @@ margin-top: 50px;
 .contenedor {
 	width: 90%;
 	max-width: 1000px;
-	margin: 20px auto;
+  margin: 20px auto;
+  
 }
 
 .contenedor article {
@@ -563,4 +564,25 @@ margin-top: 50px;
 .imgenten{
   max-width: 300px;
   min-width: 250px;
+}
+
+
+.formulario {
+  width: 100%;
+  padding: 100px;
+}
+.sexo {
+  display: flex;
+}
+.form-check {
+  margin: 0 20px;
+}
+.genero {
+  margin-right: 20px;
+}
+
+.h1, h1 {
+  font-size: 2.5rem;
+  color: white;
+  text-align: center;
 }
